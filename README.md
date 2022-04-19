@@ -2,6 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan1000&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan1000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Muhammad-Hassan1000/Muhammad-Hassan1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

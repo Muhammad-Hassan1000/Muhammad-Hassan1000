@@ -1,7 +1,7 @@
 # Hi, I'm Hassan 👋 👨‍💻
 ## I'm  a student of Software Engineering
 
-<img src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/data%20science.gif' width=800 style="align: center">
+<img src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/data%20science.gif' width=800 style="display: block; margin 0 100">
 
 ![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 

@@ -1,5 +1,5 @@
 # Hi, I am Hassan 👋
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan1000&show_icons=true)  
 <!--
 **Muhammad-Hassan1000/Muhammad-Hassan1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

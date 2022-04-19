@@ -1,5 +1,5 @@
-# Hi, I am Hassan 👋
-
+# Hi, I'm Hassan 👋
+## I'm  a student of Software Engineering
 ![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 
 - 🔭 I’m currently working on Deep Learning 
@@ -8,6 +8,7 @@
 - 📫 How to reach me: muhammad2028hassan@gmail.com 
 - ⚡ Fun fact: I love to play & watch Cricket 
 
+### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muhammad-Hassan1000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-hassan001/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan1000&show_icons=true)  

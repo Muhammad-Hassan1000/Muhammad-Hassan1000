@@ -1,7 +1,7 @@
 # Hi, I'm Hassan 👋 
 ## I'm  a student of Software Engineering 👨‍💻
 
-<img align='right' alt='Programmer Gif' src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/engineer.gif' width=500>
+<img align='right' alt='Programmer Gif' src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/engineer.gif' width=500 height=350>
 
 ![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 

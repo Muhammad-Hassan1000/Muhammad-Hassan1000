@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on Deep Learning 
 - 🌱 I’m currently learning Data Science, Machine Learning & Deep Learning 
 - 👯 I’m looking to collaborate on EDA, Data Science and Deep Learning based projects 
+- 💬 We can talk about Artificial Intelligence and Web Development
 - 📫 How to reach me: muhammad2028hassan@gmail.com 
 - ⚡ Fun fact: I love to play & watch Cricket 
 

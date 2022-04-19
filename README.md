@@ -1,8 +1,9 @@
 # Hi, I'm Hassan 👋 👨‍💻
 ## I'm  a student of Software Engineering
-![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 
-<img src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/data%20science.gif'>
+<img src='https://github.com/Muhammad-Hassan1000/Muhammad-Hassan1000/blob/main/data%20science.gif' width=500>
+
+![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 
 - 🔭 I’m currently working on Deep Learning 
 - 🌱 I’m currently learning Data Science, Machine Learning & Deep Learning 

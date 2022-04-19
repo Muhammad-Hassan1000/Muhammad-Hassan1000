@@ -1,4 +1,4 @@
-# Hi, I'm Hassan 👋 👨‍🔬
+# Hi, I'm Hassan 👋 👨‍💻
 ## I'm  a student of Software Engineering
 ![Profile views](https://gpvc.arturio.dev/Muhammad-Hassan1000)  
 
